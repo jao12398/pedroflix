@@ -5,7 +5,7 @@
   
   *Tecnologia e inovação*
   
-  *Cprendendo html e outras linguagens*
+  *Aprendendo html e outras linguagens*
   
   *Contato: joao.steil.paula@escola.pr.gov.br*
   
